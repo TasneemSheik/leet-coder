@@ -20,10 +20,12 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/TasneemSheik/leet-coder/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TasneemSheik/leet-coder/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/TasneemSheik/leet-coder/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TasneemSheik/leet-coder/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/TasneemSheik/leet-coder/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TasneemSheik/leet-coder/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TasneemSheik/leet-coder/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
