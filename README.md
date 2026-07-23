@@ -1,4 +1,6 @@
 # leet-coder
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/TasneemBanu?theme=light&font=Noto%20Sans%20Devanagari)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
