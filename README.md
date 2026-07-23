@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TasneemSheik/leet-coder/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TasneemSheik/leet-coder/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TasneemSheik/leet-coder/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
