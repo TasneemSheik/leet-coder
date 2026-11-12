@@ -17,12 +17,14 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TasneemSheik/leet-coder/tree/master/0012-integer-to-roman) |
+| [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TasneemSheik/leet-coder/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TasneemSheik/leet-coder/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TasneemSheik/leet-coder/tree/master/0022-generate-parentheses) |
+| [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,4 +62,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TasneemSheik/leet-coder/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
