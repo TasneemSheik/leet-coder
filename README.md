@@ -74,4 +74,16 @@
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/TasneemSheik/leet-coder/tree/master/1447-simplified-fractions) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TasneemSheik/leet-coder/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TasneemSheik/leet-coder/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TasneemSheik/leet-coder/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
